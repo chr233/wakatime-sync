@@ -2,7 +2,7 @@
   <h3 align="center">wakatime-sync</h3>
   <p align="center">Update Wakatime summary data to your gist every day</p>
 </p>
-
+ 
 ---
 
 > If you only need notify wakatime daily report, you can check out [wakatime-notify](https://github.com/superman66/wakatime-notify)
